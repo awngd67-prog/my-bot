@@ -1,0 +1,6 @@
+telebot
+aiohttp
+flask
+opencv-python-headless
+ddddocr
+numpy
